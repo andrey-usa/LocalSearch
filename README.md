@@ -4,13 +4,13 @@ LocalSearch is an extended version of the original Stanford Code in Place final 
 
 ## Features
 
-** - Keyword Boldening:** 
+**- Keyword Boldening:** 
     Introduced a new feature to bolden the keywords in search results, making it easier than ever to find exactly what you're looking for.
 
-** - Navigation to Result File:** 
+**- Navigation to Result File:** 
     Navigate directly to the text file containing search result.
 
-** - New Branding:** 
+**- New Branding:** 
     Updated  project name and logo. Project renamed to LocalSearch
 
 ## Getting Started
