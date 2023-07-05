@@ -17,20 +17,20 @@ LocalSearch is an extended version of the original Stanford Code in Place final 
 
 You can get started by cloning the repository:
 
-git clone https://github.com/<username>/LocalSearch.git
+```git clone https://github.com/<username>/LocalSearch.git```
 
 Navigate to the project folder:
 
-cd LocalSearch
+```cd LocalSearch```
 
 
 Launch:
 
-python3 extension_server.py
+```python3 extension_server.py```
 
 After launch navigate to http://localhost:8000/ in the browser.
 
-You can assign DIRECTORY in extension.server.py with the new directory name if you need to change the dataset. Default value is DIRECTORY = 'bbcnews'
+You can assign DIRECTORY in extension.server.py with the new directory name if you need to change the dataset. Default value is ```DIRECTORY = 'bbcnews'```
 
 ## Contact
 
