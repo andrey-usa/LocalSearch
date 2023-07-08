@@ -1,6 +1,7 @@
 # LocalSearch
 
-LocalSearch is an extended version of the original Stanford Code in Place final project Bajillion with some new features designed to improve search results and user experience.
+LocalSearch is an extended version of the original Stanford Code in Place final project assingment Bajillion with some added features designed to improve search results and user experience.
+
 
 ## Features
 
@@ -17,12 +18,11 @@ LocalSearch is an extended version of the original Stanford Code in Place final 
 
 You can get started by cloning the repository:
 
-```git clone https://github.com/<username>/LocalSearch.git```
+```git clone https://github.com/andrey-usa/LocalSearch.git```
 
 Navigate to the project folder:
 
 ```cd LocalSearch```
-
 
 Launch:
 
@@ -30,8 +30,9 @@ Launch:
 
 After launch navigate to http://localhost:8000/ in the browser.
 
-You can assign DIRECTORY in extension.server.py with the new directory name if you need to change the dataset. Default value is ```DIRECTORY = 'bbcnews'```
+You can replace value of ```DIRECTORY``` variable in extension.server.py with the new directory name if you need to change the dataset. Default value is ```'bbcnews'```.
+Directory should contain .txt files.
 
 ## Contact
 
-If you have any questions, comments, or concerns, feel free to reach out to us by raising an issue in the GitHub repository.
+If you have any questions, comments, or concerns, feel free to reach out to me by raising an issue in the GitHub repository.
