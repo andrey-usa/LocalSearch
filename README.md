@@ -1,9 +1,9 @@
 # LocalSearch
 
-LocalSearch is an extended version of the original Stanford Code in Place final project assingment Bajillion with some added features designed to improve search results and user experience.
+LocalSearch is an extended version of the original Stanford Code in Place final project assingment Bajillion http://web.stanford.edu/class/archive/cs/cs106a/cs106a.1212/assn/bajillion-handout.html with some added features designed to improve search results and user experience.
 
 
-## Features
+## Added Features
 
 **- Keyword Boldening:** 
     Introduced a new feature to bolden the keywords in search results.
